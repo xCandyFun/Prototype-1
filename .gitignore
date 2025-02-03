@@ -1,5 +1,14 @@
 .vscode
-Assets
+Course Library
+Scenes
+Settings
+TutorialInfo
+InputSystem_Actions.inputactions
+scripts/*
+!scripts/*.cs
+Assets/Scripts/*.cs.meta
+Assets/*.meta
+Assets/Readme.asset
 Library
 Logs
 Packages
