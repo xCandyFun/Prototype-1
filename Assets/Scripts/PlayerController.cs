@@ -3,8 +3,8 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     // Move x times per second
-    private float movePerSec = 10.0f;
-    private float turnSpeed = 10.0f;
+    private float movePerSec = 15.0f;
+    private float turnSpeed = 15.0f;
     private float horizontalInput;
     private float verticalInput;
 
